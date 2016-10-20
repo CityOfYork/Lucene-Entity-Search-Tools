@@ -1,0 +1,17 @@
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\CYC.DigitalHub.Common.LuceneEntitySearchTools.dll.config
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\CYC.DigitalHub.Common.LuceneEntitySearchTools.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\CYC.DigitalHub.Common.LuceneEntitySearchTools.pdb
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\EntityFramework.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\EntityFramework.SqlServer.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\HtmlAgilityPack.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\Lucene.Net.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\EntityFramework.xml
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\EntityFramework.SqlServer.xml
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\HtmlAgilityPack.pdb
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\HtmlAgilityPack.xml
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\Lucene.Net.pdb
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Release\Lucene.Net.xml
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\obj\Release\CYC.DigitalHub.Common.LuceneEntitySearchTools.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\obj\Release\CYC.DigitalHub.Common.LuceneEntitySearchTools.pdb
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\obj\Release\CYC.DigitalHub.Common.LuceneEntitySearchTools.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\CYC.DigitalHub.Common.LuceneEntitySearchTools.dll.config
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\CYC.DigitalHub.Common.LuceneEntitySearchTools.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\CYC.DigitalHub.Common.LuceneEntitySearchTools.pdb
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\EntityFramework.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\HtmlAgilityPack.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\Lucene.Net.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\EntityFramework.xml
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\HtmlAgilityPack.pdb
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\HtmlAgilityPack.xml
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\Lucene.Net.pdb
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\bin\Debug\Lucene.Net.xml
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\obj\Debug\CYC.DigitalHub.Common.LuceneEntitySearchTools.csprojResolveAssemblyReference.cache
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\obj\Debug\CYC.DigitalHub.Common.LuceneEntitySearchTools.dll
+C:\Source\LuceneEntitySearchTools\CYC.DigitalHub.Common.LuceneEntitySearchTools\obj\Debug\CYC.DigitalHub.Common.LuceneEntitySearchTools.pdb
