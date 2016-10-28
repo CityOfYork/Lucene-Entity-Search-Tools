@@ -5,7 +5,7 @@ Lucene Entity Search Tools is a library for easily indexing and searching entiti
 We are going to go through the necessary steps to create and index a code-first entity framework data context. We’ll use a single entity called **User** for this quick start guide.
 
 ####The Model####
-  public class User : LuceneIndexableEntityBase
+ 	public class User : LuceneIndexableEntityBase
 	{
 		[LuceneIndexable]
         public string FirstName { get; set; }
