@@ -1,6 +1,6 @@
 
 ## Lucene Entity Search Tools ##
-Lucene Entity Search Tools is a library for easily indexing and searching entities. When combined with the SearchableContextProvider, indexing and searching can be easily applied to any entity framework database.
+Lucene Entity Search Tools is a library for easily indexing and searching entities. When combined with the **SearchableContextProvider**, indexing and searching can be easily applied to any entity framework database.
 ### Quick Start###
 We are going to go through the necessary steps to create and index a code-first entity framework data context. We’ll use a single entity called **User** for this quick start guide.
 
