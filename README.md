@@ -32,7 +32,7 @@ We are going to go through the necessary steps to create and index a code-first 
 
 That’s it for the context.  The only addition is the implementation of **IDbContext**, which just declares some key methods within a standard entity framework context so we don't need to do anything more to implement this interface.
 
-### Creating an inde x###
+### Creating an index ###
 Once we have our model and context we can start by indexing the data in our context.
 
 	// create a test context
