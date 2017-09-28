@@ -50,7 +50,7 @@ Once we have our model and context we can start by indexing the data in our cont
 And that’s it, our context is now searchable!
 
 ### Updating the index ###
-To update the index after performing any **CUD** operations simply call the **SaveChanges()** method from the **SearchableContextProvider** instead of calling **SaveChanges()** from the **DbContext**. This will update the index and then call the Contexts SaveChanges() method.
+To update the index after performing any **CRUD** operations simply call the **SaveChanges()** method from the **SearchableContextProvider** instead of calling **SaveChanges()** from the **DbContext**. This will update the index and then call the Contexts SaveChanges() method.
 
 ### Searching an index ###
 To search an index, we need to create a query using a **SearchOptions** class and calling one of the search providers Search methods. There are a number of different options for searching, for now we’ll just use a typed ScoredSearch, which will return the results as actual User objects.
